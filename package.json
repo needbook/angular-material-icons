@@ -35,9 +35,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/klarsys/angular-material-icons.git"
+    "url": "git://github.com/needbook/angular-material-icons.git"
   },
   "bugs": {
-    "url": "https://github.com/klarsys/angular-material-icons/issues"
+    "url": "git://github.com/needbook/angular-material-icons.git"
   }
 }
